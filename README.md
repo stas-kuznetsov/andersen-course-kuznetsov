@@ -17,12 +17,12 @@ Positions, that I held in my works:
 My last position is an instructor at the computer academy. I am working at the computer academy now.  
 
 
-# I am interesting DevOps cources becouse:
-- DevOps-engineer has high level of salary
+# I am interesting DevOps courses because:
 - DevOps and security are interesting for me
 - I want to develop my skills
+- DevOps-engineer has high level of salsry
 
-# I am expecting from DevOps cource:
+#I am expecting from DevOps course:
 - to get new knowledges
 - to develop my skills
 - to get an offer to work in company
