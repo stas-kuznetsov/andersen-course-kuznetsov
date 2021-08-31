@@ -2,7 +2,6 @@
 
 
 # About me.
-
 My name is Stanislav Kuznetsov. I am 45 years old. I graduated Dnipropetrovsk State university on speciality 
 "Computer and intellectual systems and networks" in 2000 with master degree. My experience in IT is 21 years. 
 Positions, that I held in my works:
@@ -22,7 +21,7 @@ My last position is an instructor at the computer academy. I am working at the c
 - I want to develop my skills
 - DevOps-engineer has high level of salsry
 
-#I am expecting from DevOps course:
+# I am expecting from DevOps course:
 - to get new knowledges
 - to develop my skills
 - to get an offer to work in company
