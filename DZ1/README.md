@@ -5,3 +5,9 @@ I have learned:
 - how to work with Git and GitHub from Windows (authorization keys, git commit, git push)
 - what software development types exist
 
+day 2 (31.08.2021)
+I have learned:
+- basic concepts of the Docker
+- how to install docker on Linux Ubuntu
+
+
