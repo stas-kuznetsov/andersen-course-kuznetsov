@@ -13,6 +13,7 @@ Positions, that I held in my works:
 - network administrator
 - chief of IT department
 - instructor
+
 My last position is an instructor at the computer academy. I am working at the computer academy now.  
 
 
