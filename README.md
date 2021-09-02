@@ -19,7 +19,7 @@ My last position is an instructor at the computer academy. I am working at the c
 # I am interesting DevOps courses because:
 - DevOps and security are interesting for me
 - I want to develop my skills
-- DevOps-engineer has high level of salsry
+- DevOps-engineer has high level of salary
 
 # I am expecting from DevOps course:
 - to get new knowledges
