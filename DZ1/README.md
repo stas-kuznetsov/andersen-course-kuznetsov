@@ -53,3 +53,20 @@ I have learned:
 - more deep learning commands of Linux (netstat, grep, tail, whois)
 - learning new for me commands of Linux (awk, uniq, cut)
 - how to delete some line from command output
+
+day 10 (10.09.2021)
+I have learned:
+- the basic concepts of flask
+- how to create simple program in flask
+- how to setup listened port 80 in flask (not 5000)
+
+day 11 (13.09.2021)
+I have learned:
+- how to setup methods (POST, GET) in flask
+- how to accept JSON-string in flask
+
+day 12 (14.09.2011)
+- deep learning about operations with strings in Python
+- how to install pipenv
+- how to install flask into pipenv
+
