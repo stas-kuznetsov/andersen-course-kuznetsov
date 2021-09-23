@@ -65,8 +65,26 @@ I have learned:
 - how to setup methods (POST, GET) in flask
 - how to accept JSON-string in flask
 
-day 12 (14.09.2011)
+day 12 (14.09.2021)
+I have learned:
 - deep learning about operations with strings in Python
 - how to install pipenv
 - how to install flask into pipenv
 
+day 13 (15.09.2021)
+I have learned:
+- what is the emoji
+- how to work with emoji and flask
+
+day 14 (16.09.2021)
+I have learned:
+- how to write value of variable (not name of variable) into the string in Python
+
+day 15 (17.09.2021)
+I have learned:
+- what is the Gitflow
+- what stages in Gitflow are exist
+
+day 16 (20.09.2021)
+- 
+- 
