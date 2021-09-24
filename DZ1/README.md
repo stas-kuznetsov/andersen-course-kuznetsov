@@ -86,5 +86,24 @@ I have learned:
 - what stages in Gitflow are exist
 
 day 16 (20.09.2021)
-- 
-- 
+I have learned:
+- how to deploy flask-app on Linux Ubuntu with wer-server NGINX
+ 
+day 17 (21.09.2021)
+I have learned:
+- how to make from flask-app my own service on Linux Ubuntu and deploy it with NGINX
+
+day 18 (22.09.2021)
+I have learned:
+- how to install Linux Debian 10
+- how to work with Linux Debian 10
+
+day 19 (23.09.2021)
+I have learned:
+- how to deploy flask-app on Linux Debian 10 with web-server Apache
+
+day 20 (24.09.2021)
+I have learned:
+- how to deploy flask-app on Linux Debian + Apache with Ansible
+
+
