@@ -7,3 +7,6 @@ go_bot   - executable file for Telegram bot. This file accepts token from comman
 bot.sh - file for launch Telegram bot (need to change directory and token)
 
 ScreenShots - directory with screenshots of working Telegram bot
+
+
+If need demonstration of working Telegram bot - tell me and I run it.
